@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 RUN apt-get -y update && apt-get -y install --no-install-recommends apache2 \
   && apt-get clean \
   && rm -rf /var/lib/apt/lists/*
