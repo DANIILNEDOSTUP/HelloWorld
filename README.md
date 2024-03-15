@@ -1,4 +1,4 @@
-# JavaScript Calculator
+# JavaScript Calculator 3000
 
  <img alt="build" src="https://github.com/DANIILNEDOSTUP/js-calculator/workflows/CI/badge.svg">
 
